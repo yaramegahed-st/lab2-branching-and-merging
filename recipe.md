@@ -9,7 +9,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 - 2 teaspoons baking powder
 - 1 teaspoon baking soda
 - 1/2 teaspoon salt
-- 3 large eggs
+- 3 large egg
 - 1 cup milk
 - 1/2 cup vegetable oil
 - 2 teaspoons vanilla extract
